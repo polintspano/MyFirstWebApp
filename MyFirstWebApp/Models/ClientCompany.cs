@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace MyFirstWebApp.Models
 {
-    public class CompanyName : CommonEntity
+    public class ClientCompany : CommonEntity
     {
         public string Name { get; set; }
         public string Bulstat { get; set; }
