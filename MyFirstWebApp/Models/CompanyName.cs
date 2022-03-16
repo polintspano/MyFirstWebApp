@@ -10,5 +10,7 @@ namespace MyFirstWebApp.Models
         public string Name { get; set; }
         public string Bulstat { get; set; }
         public string VatNumber { get; set; }
+        public string Address { get; set; }
+        public string City { get; set; }
     }
 }
